@@ -1,3 +1,5 @@
+![GitHub Profile Banner](github-banner.png)
+
 # Hey there, I'm Nysa! 👋
 
 ### 💻 BCA Student | Aspiring Software Developer | Creative Problem Solver
